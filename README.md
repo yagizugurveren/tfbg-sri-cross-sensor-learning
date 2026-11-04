@@ -16,4 +16,5 @@ This package does not include trained weights, predictions, or the full preproce
 
 Install Python dependencies using `pip install -r requirements.txt`. With the complete datasets in the required layout, run `python model.py`. Outputs are written to `results/`. Training can take substantial time; its precise results may depend on software versions and hardware.
 
-The dataset DOI, software license, and dependency versions should be added when confirmed by the authors.
+
+The code is released under the MIT License. The dataset DOI and dependency versions should be added when confirmed by the authors.
